@@ -17,9 +17,6 @@ function App() {
       <div><MemoryCard /><MemoryCard /><MemoryCard /><MemoryCard /></div>
       <div><MemoryCard /><MemoryCard /><MemoryCard /><MemoryCard /></div>
       <div><MemoryCard /><MemoryCard /><MemoryCard /><MemoryCard /></div>
-
-      
-
     </div>
   );
 }
